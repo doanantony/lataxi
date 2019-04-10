@@ -1,1 +1,1 @@
-# lataxi
+# lataxi project
